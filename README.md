@@ -2,24 +2,6 @@
 
 
 
-
-
-
-
-
-
-
-
-
-
-
-22CSAI03H
-machine learning
-Assignment 1 Group: 8
-Name: Kareem Abdelhady
-ID: 197155
-
- 
 Classification:
 1.	Data set: Gender Recognition by Voice: https://www.kaggle.com/primaryobjects/voicegender 
 
